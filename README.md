@@ -1,1 +1,1 @@
-# chron-infra
+# chron-infrastructure
